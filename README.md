@@ -20,3 +20,6 @@ Then run the code:
 ```bash
 python3 discord_bot.py
 ```
+
+And then you can get the RPi temperature by typing your chosen command prefix followed by "cpu".
+For example, if the prefix is '.' then you'd have to type '.cpu'.
