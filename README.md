@@ -8,6 +8,13 @@ Then create the bot and add the bot token to the code together with your desired
 
 Now add the bot to your desired server to test it.
 
+## Import packages
+Remember to import the following packages on your raspberry pi:
+```bash
+pip install gpiozero
+pip install discord.py
+```
+
 ## Run the code
 Run the code on the raspberry pi by cd-ing to the dir of the code.
 
